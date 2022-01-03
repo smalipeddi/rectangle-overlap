@@ -1,4 +1,4 @@
-# Getting Started with the Rectnngles Overlap project
+# Getting Started with the Rectangles Overlap project
 
 1. clone the poject
 2. run 'npm install' to install the packages/ libraries.
